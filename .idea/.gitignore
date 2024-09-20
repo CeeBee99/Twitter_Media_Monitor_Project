@@ -1,0 +1,77 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment directories
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# Poetry files
+poetry.lock
+.pdm.toml
+.pdm.lock
+
+# pyenv
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Ignore Selenium drivers installed via webdriver_manager
+drivers/
